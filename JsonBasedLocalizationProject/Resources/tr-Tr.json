@@ -1,0 +1,10 @@
+[
+  {
+    "ErrorCode": "ERR001",
+    "ErrorMessage": "Hata1."
+  },
+  {
+    "ErrorCode": "ERR002",
+    "ErrorMessage": "Hata2"
+  }
+]

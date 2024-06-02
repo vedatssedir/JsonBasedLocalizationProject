@@ -1,0 +1,10 @@
+[
+  {
+    "ErrorCode": "ERR001",
+    "ErrorMessage": "Invalid input provided."
+  },
+  {
+    "ErrorCode": "ERR002",
+    "ErrorMessage": "Resource not found."
+  }
+]

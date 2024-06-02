@@ -1,0 +1,6 @@
+@JsonBasedLocalizationProject_HostAddress = http://localhost:5225
+
+GET {{JsonBasedLocalizationProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
